@@ -38,8 +38,7 @@ ELSE
     OUTPUT "Bilangan Ganjil"
 END IF
 
-
-##  Flowchart
+## E. Flowchart
 
 mermaid
 flowchart TD
