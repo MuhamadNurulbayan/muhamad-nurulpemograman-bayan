@@ -39,7 +39,7 @@ ELSE
 END IF
 
 
-## 📊 Flowchart
+##  Flowchart
 
 ```mermaid
 graph TD
