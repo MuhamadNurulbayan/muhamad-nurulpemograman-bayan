@@ -13,7 +13,7 @@ Program ini menerapkan logika matematika untuk menentukan jenis bilangan berdasa
 
 Berdasarkan hasil evaluasi tersebut, program akan menentukan apakah bilangan tersebut merupakan bilangan genap atau bilangan ganjil.
 
-## Identifikasi Input, Proses, dan Output
+## B. Identifikasi Input, Proses, dan Output
 
 
 
@@ -26,7 +26,7 @@ Berdasarkan hasil evaluasi tersebut, program akan menentukan apakah bilangan ter
 | *Output* | Jenis bilangan, yaitu *Bilangan Genap* atau *Bilangan Ganjil*. |
 
 
-##  Pseudocode
+## C. Pseudocode
 
 
 ```text
