@@ -38,9 +38,9 @@ ELSE
     OUTPUT "Bilangan Ganjil"
 END IF
 
-## E. Flowchart
+##  Flowchart
 
-mermaid
+```mermaid
 flowchart TD
     A([START]) --> B[/Input bilangan/]
     B --> C{Bilangan % 2 == 0?}
@@ -50,3 +50,4 @@ flowchart TD
     
     D --> F([END])
     E --> F
+```
