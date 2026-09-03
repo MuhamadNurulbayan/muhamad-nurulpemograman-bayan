@@ -13,6 +13,14 @@ Program ini menerapkan logika matematika untuk menentukan jenis bilangan berdasa
 
 Berdasarkan hasil evaluasi tersebut, program akan menentukan apakah bilangan tersebut merupakan bilangan genap atau bilangan ganjil.
 
-*Input* | Sebuah bilangan bulat yang akan diperiksa. |
+## Identifikasi Input, Proses, dan Output
+
+
+
+
+
+| Komponen | Keterangan |
+|---|---|
+| *Input* | Sebuah bilangan bulat yang akan diperiksa. |
 | *Proses* | Program memeriksa bilangan menggunakan operasi modulo (MOD 2). Jika sisa hasil pembagian dengan 2 adalah 0, maka bilangan tersebut genap. Jika sisanya bukan 0, maka bilangan tersebut ganjil. |
-| *Output* | Jenis bilangan, yaitu *Bilangan Genap* atau *Bilangan Ganjil*.
+| *Output* | Jenis bilangan, yaitu *Bilangan Genap* atau *Bilangan Ganjil*. |
