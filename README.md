@@ -39,9 +39,15 @@ ELSE
 END IF
 
 
-program_1/
-│
-├── main.py
-├── README.md
-├── flowchart.png
-└── hasil-pengujian.png
+##  Flowchart
+
+mermaid
+flowchart TD
+    A([START]) --> B[/Input bilangan/]
+    B --> C{Bilangan % 2 == 0?}
+    
+    C -->|Ya| D[Output: Bilangan Genap]
+    C -->|Tidak| E[Output: Bilangan Ganjil]
+    
+    D --> F([END])
+    E --> F
