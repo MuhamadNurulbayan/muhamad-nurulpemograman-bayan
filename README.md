@@ -24,3 +24,16 @@ Berdasarkan hasil evaluasi tersebut, program akan menentukan apakah bilangan ter
 | *Input* | Sebuah bilangan bulat yang akan diperiksa. |
 | *Proses* | Program memeriksa bilangan menggunakan operasi modulo (MOD 2). Jika sisa hasil pembagian dengan 2 adalah 0, maka bilangan tersebut genap. Jika sisanya bukan 0, maka bilangan tersebut ganjil. |
 | *Output* | Jenis bilangan, yaitu *Bilangan Genap* atau *Bilangan Ganjil*. |
+
+
+##  Pseudocode
+
+
+```text
+INPUT bilangan
+
+IF bilangan MOD 2 = 0 THEN
+    OUTPUT "Bilangan Genap"
+ELSE
+    OUTPUT "Bilangan Ganjil"
+END IF
