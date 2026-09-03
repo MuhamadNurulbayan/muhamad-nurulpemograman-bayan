@@ -37,3 +37,11 @@ IF bilangan MOD 2 = 0 THEN
 ELSE
     OUTPUT "Bilangan Ganjil"
 END IF
+
+
+program_1/
+│
+├── main.py
+├── README.md
+├── flowchart.png
+└── hasil-pengujian.png
